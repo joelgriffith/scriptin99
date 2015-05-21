@@ -6,44 +6,35 @@ Build JavaScript that runs in any JavaScript environment. Run tests in every bro
 
 # Features
 
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/mycomputer.png" width="70" height="70" alt="Run in Any Browser" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
-
 #### Run Tests on any browser
-Use karma loaders to easily start any browser, or just visit the test URL.
+Test in any browser you want to. IE6+, Android 2+, and even non-standard browsers. Use karma loaders to easily start any browser, or just visit the test URL.
 
 ***
-
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/internet.jpg" width="70" height="70" alt="SauceLabs" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Integrate with cloud-based testing platforms
-Use just about any cloud-based testing platforms to run tests everywhere.
-
+Scriptin'99 plays well with just about any 3rd party testing service. Browserstack and SauceLabs both intergrate nicely.
+ 
 ***
-
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/flyingscreen.png" width="70" height="70" alt="Notifications" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Notifications
-Get notifications when your tests begin to fail, and easily achieve TDD nirvanna.
+Using your os-level notification system, Scriptin'99 will automatically tell you when your test begin to fail.
 
 ***
-
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/blocksfalling.png" width="70" height="70" alt="Dependency Injection" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Dependency Injection
-Use fancy-pants things like dependency-injection to easily mock your testing.
+Scriptin'99 allows you to dynamically inject modules under any `var` name you can think of ($ much?). It even let's you mock your modules dependencies in tests, letting you limit your testing area.
 
 ***
 
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/star.png" width="70" height="70" alt="Coverage" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
-
 #### See how you're doing
-See how well you're covered with code-coverage via Istanbul.
+Comes out-of-the-box with Istanbul pre-installed. Get valuable metrics on where your code isn't covered, and see how you can improve.
 
 # Installation
 
 - Install [node.js](https://nodejs.org/)
 - `mkdir myproject && cd myproject`
-- `curl raw.githubusercontent.com/joelgriffith/scriptin99/master/latest.tar.gz | tar -xf- -C ./ && npm i`
+- `curl raw.githubusercontent.com/joelgriffith/scriptin99/master/latest.tar.gz | tar -xf- -C ./`
+- `npm i`
 
 # Commands
 
