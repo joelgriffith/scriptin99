@@ -1,12 +1,12 @@
 ![Scriptin' 99](https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/scriptinlogo.png)
 
-`curl http://example.org/latest.tar | tar -xf- -C ./ && npm i`
+`curl https://github.com/joelgriffith/scriptin99/raw/master/latest.tar.gz | tar -xf- -C ./ && npm i`
 
 Build JavaScript that runs in any JavaScript environment. Run tests in every browser. Use the latest tools and technologies (like [rewire](https://github.com/jhnns/rewire)). All of this in a simple, succint command-line interface.
 
 # Features
 
-<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/computer.png" width="70" height="70" alt="Run in Any Browser" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/mycomputer.png" width="70" height="70" alt="Run in Any Browser" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Run Tests on any browser
 Use karma loaders to easily start any browser, or just visit the test URL.
