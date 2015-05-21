@@ -5,7 +5,4 @@ sed 's/jgriffith/YourName/g' |
 sed 's/APACHE V2/YourLicense/g' > package.json
 
 # Tar up the directory, load our exclusions
-tar -zcvf latest.tar.gz -X ./conf/archive.exclude.txt ./
-
-# Checkout the package.json file from before
-git checkout package.json
+tar -zcvf latest.tar.gz -X ./conf/archive.exclude.txt ./ && git checkout package.json
