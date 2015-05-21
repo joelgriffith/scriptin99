@@ -1,4 +1,4 @@
-![Scriptin' 99](http://localhost:8080/images/scriptinlogo.png)
+![Scriptin' 99](https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/scriptinlogo.png)
 
 `curl http://example.org/latest.tar | tar -xf- -C ./ && npm i`
 
@@ -6,35 +6,35 @@ Build JavaScript that runs in any JavaScript environment. Run tests in every bro
 
 # Features
 
-<img src="http://localhost:8080/images/mycomputer.png" width="70" height="70" alt="Run in Any Browser" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/computer.png" width="70" height="70" alt="Run in Any Browser" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Run Tests on any browser
 Use karma loaders to easily start any browser, or just visit the test URL.
 
 ***
 
-<img src="http://localhost:8080/images/internet.jpg" width="70" height="70" alt="SauceLabs" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/internet.jpg" width="70" height="70" alt="SauceLabs" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Integrate with cloud-based testing platforms
 Use just about any cloud-based testing platforms to run tests everywhere.
 
 ***
 
-<img src="http://localhost:8080/images/flyingscreen.png" width="70" height="70" alt="Notifications" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/flyingscreen.png" width="70" height="70" alt="Notifications" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Notifications
 Get notifications when your tests begin to fail, and easily achieve TDD nirvanna.
 
 ***
 
-<img src="http://localhost:8080/images/blocksfalling.png" width="70" height="70" alt="Dependency Injection" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/blocksfalling.png" width="70" height="70" alt="Dependency Injection" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### Dependency Injection
 Use fancy-pants things like dependency-injection to easily mock your testing.
 
 ***
 
-<img src="http://localhost:8080/images/star.png" width="70" height="70" alt="Coverage" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/star.png" width="70" height="70" alt="Coverage" style="float: left; padding-right: 20px; padding-bottom: 20px;"/>
 
 #### See how you're doing
 See how well you're covered with code-coverage via Istanbul.
