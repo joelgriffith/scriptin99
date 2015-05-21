@@ -1,6 +1,6 @@
 ![Scriptin' 99](https://raw.githubusercontent.com/joelgriffith/scriptin99/master/images/scriptinlogo.png)
 
-`curl raw.githubusercontent.com/joelgriffith/scriptin99/master/latest.tar.gz | tar -xf- -C ./ && npm i`
+`curl https://raw.githubusercontent.com/joelgriffith/scriptin99/master/latest.tar.gz | tar -xf- -C ./ && npm i`
 
 Build JavaScript that runs in any JavaScript environment. Run tests in every browser. Use the latest tools and technologies (like [rewire](https://github.com/jhnns/rewire)). All of this in a simple, succint command-line interface.
 
