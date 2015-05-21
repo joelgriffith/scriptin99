@@ -1,0 +1,29 @@
+{
+    "bitwise": true,
+    "browser": true,
+    "curly": false,
+    "devel": true,
+    "eqeqeq": true,
+    "es3": true,
+    "freeze": true,
+    "immed": true,
+    "maxdepth": 5,
+    "newcap": true,
+    "noarg": true,
+    "node": true,
+    "notypeof": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "scripturl": true,
+    "globals": {
+        "expect": false,
+        "describe": false,
+        "it": false,
+        "xit": false,
+        "sinon": false,
+        "beforeEach": false,
+        "afterEach": false,
+        "open": true
+    }
+}

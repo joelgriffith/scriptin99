@@ -1,0 +1,14 @@
+build
+.git
+.gitignore
+images
+scripts
+node_modules
+.DS_Store
+logs
+*.log
+pids
+*.pid
+*.seed
+latest.tar.gz
+archive.exclude.txt
